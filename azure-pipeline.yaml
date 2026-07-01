@@ -5,7 +5,7 @@ variables:
   imageName: "studenthub"
   acrName: "studenthubreg"
   acrServiceConnection: "acr-student-connection"
-  aksServiceConnection: "aks-student-connection"
+  aksServiceConnection: "aks-service-connection"
   aksCluster: "aks-student-prod"
   resourceGroup: "studenthub-python"
 
